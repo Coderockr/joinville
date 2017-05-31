@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Sobre Joinville
 
-You can use the [editor on GitHub](https://github.com/Coderockr/joinville/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Uma série de dicas úteis para quem está de mudança para Joinville.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## O que fazer em Joinville
 
-### Markdown
+[Por que não Joinville?](https://contaazul.com/carreiras/sobre-joinville/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[163 coisas para fazer em Joinville](http://jornalanoticia.tumblr.com/)
 
-```markdown
-Syntax highlighted code block
+## Sobre os bairros
 
-# Header 1
-## Header 2
-### Header 3
+https://pt.wikipedia.org/wiki/Lista_de_bairros_de_Joinville
+https://www.joinville.sc.gov.br/publicacoes/mapas-dos-bairros-do-municipio-de-joinville/
+http://www.irineuimoveis.com.br/blog/qual-o-melhor-bairro-de-joinville-para-se-morar/
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Algumas Imobiliárias
 
-**Bold** and _Italic_ and `Code` text
+http://www.zibell.com.br/
+http://www.anageimoveis.com.br/
+https://www.imobiliariamanchester.com.br/
+http://www.imoville.imb.br/
+http://www.koncreta.com.br/
+http://www.sobradoimoveis.com.br/
+http://www.maisimoveisjoinville.com.br/
+http://www.galeriaimoveis.com.br/
+https://www.redeimoveisjoinville.com.br/
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Universidades
 
-### Jekyll Themes
+https://www.univille.edu.br/
+http://www.catolicasc.org.br/joinville/
+http://joinville.ufsc.br/
+http://www.sociesc.org.br/pt/unisociesc/
+http://anhanguera.com/home/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coderockr/joinville/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Hotéis e pousadas
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Booking.com](https://www.booking.com/city/br/joinvile.en.html?aid=354409;label=joinvile-gSd3MkzvMLtv_RjNTcTYOwS169208737611:pl:ta:p130:p2:ac:ap1t1:neg:fi:tiaud-146342138230:kwd-186688736:lp1001710:li:dec:dm;ws=&gclid=CjwKEAjw07nJBRDG_tvshefHhWQSJABRcE-Zc1Vdy_4pMrAlqoETT8nKBr2a5ayT9cbArmiMv53sGhoCbQPw_wcB)
+
+[TripAdvisor](https://www.tripadvisor.com.br/Hotels-g303584-Joinville_State_of_Santa_Catarina-Hotels.html)
+
+[Pousadas](http://www.feriasbrasil.com.br/sc/joinville/hoteis-pousadas.cfm)
+
+## Aeroporto
+
+http://www4.infraero.gov.br/aeroportos/aeroporto-de-joinville-lauro-carneiro-de-loyola/
+
+# Rodoviária
+
+https://rodoviariaonline.com.br/rodoviaria/joinville/?gclid=CjwKEAjw07nJBRDG_tvshefHhWQSJABRcE-Z6Q2DslKgU0ihUoELdAXy4mGqvocURQpN69o_LB5v4xoCWCDw_wcB
