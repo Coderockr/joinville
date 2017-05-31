@@ -11,29 +11,43 @@ Uma série de dicas úteis para quem está de mudança para Joinville.
 ## Sobre os bairros
 
 [Lista de bairros](https://pt.wikipedia.org/wiki/Lista_de_bairros_de_Joinville)
+
 [Mapas dos bairros](https://www.joinville.sc.gov.br/publicacoes/mapas-dos-bairros-do-municipio-de-joinville/)
+
 [Qual o melhor bairro de Joinville para se morar?](http://www.irineuimoveis.com.br/blog/qual-o-melhor-bairro-de-joinville-para-se-morar/)
 
 
 ## Algumas Imobiliárias
 
 [Zibell](http://www.zibell.com.br/)
+
 [Anagê](http://www.anageimoveis.com.br/)
+
 [Manchester](https://www.imobiliariamanchester.com.br/)
+
 [Imoville](http://www.imoville.imb.br/)
+
 [Koncreta](http://www.koncreta.com.br/)
+
 [Sobrado](http://www.sobradoimoveis.com.br/)
+
 [Mais Imóveis](http://www.maisimoveisjoinville.com.br/)
+
 [Galeria](http://www.galeriaimoveis.com.br/)
+
 [Rede Imóveis](https://www.redeimoveisjoinville.com.br/)
 
 
 ## Universidades
 
 [Univille](https://www.univille.edu.br/)
+
 [Católica](http://www.catolicasc.org.br/joinville/)
+
 [UFSC](http://joinville.ufsc.br/)
+
 [Sociesc](http://www.sociesc.org.br/pt/unisociesc/)
+
 [Anhanguera](http://anhanguera.com/home/)
 
 
