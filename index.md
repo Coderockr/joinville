@@ -10,31 +10,31 @@ Uma série de dicas úteis para quem está de mudança para Joinville.
 
 ## Sobre os bairros
 
-https://pt.wikipedia.org/wiki/Lista_de_bairros_de_Joinville
-https://www.joinville.sc.gov.br/publicacoes/mapas-dos-bairros-do-municipio-de-joinville/
-http://www.irineuimoveis.com.br/blog/qual-o-melhor-bairro-de-joinville-para-se-morar/
+[Lista de bairros](https://pt.wikipedia.org/wiki/Lista_de_bairros_de_Joinville)
+[Mapas dos bairros](https://www.joinville.sc.gov.br/publicacoes/mapas-dos-bairros-do-municipio-de-joinville/)
+[Qual o melhor bairro de Joinville para se morar?](http://www.irineuimoveis.com.br/blog/qual-o-melhor-bairro-de-joinville-para-se-morar/)
 
 
 ## Algumas Imobiliárias
 
-http://www.zibell.com.br/
-http://www.anageimoveis.com.br/
-https://www.imobiliariamanchester.com.br/
-http://www.imoville.imb.br/
-http://www.koncreta.com.br/
-http://www.sobradoimoveis.com.br/
-http://www.maisimoveisjoinville.com.br/
-http://www.galeriaimoveis.com.br/
-https://www.redeimoveisjoinville.com.br/
+[Zibell](http://www.zibell.com.br/)
+[Anagê](http://www.anageimoveis.com.br/)
+[Manchester](https://www.imobiliariamanchester.com.br/)
+[Imoville](http://www.imoville.imb.br/)
+[Koncreta](http://www.koncreta.com.br/)
+[Sobrado](http://www.sobradoimoveis.com.br/)
+[Mais Imóveis](http://www.maisimoveisjoinville.com.br/)
+[Galeria](http://www.galeriaimoveis.com.br/)
+[Rede Imóveis](https://www.redeimoveisjoinville.com.br/)
 
 
 ## Universidades
 
-https://www.univille.edu.br/
-http://www.catolicasc.org.br/joinville/
-http://joinville.ufsc.br/
-http://www.sociesc.org.br/pt/unisociesc/
-http://anhanguera.com/home/
+[Univille](https://www.univille.edu.br/)
+[Católica](http://www.catolicasc.org.br/joinville/)
+[UFSC](http://joinville.ufsc.br/)
+[Sociesc](http://www.sociesc.org.br/pt/unisociesc/)
+[Anhanguera](http://anhanguera.com/home/)
 
 
 ## Hotéis e pousadas
@@ -45,10 +45,10 @@ http://anhanguera.com/home/
 
 [Pousadas](http://www.feriasbrasil.com.br/sc/joinville/hoteis-pousadas.cfm)
 
-## Aeroporto
+## Transporte
 
-http://www4.infraero.gov.br/aeroportos/aeroporto-de-joinville-lauro-carneiro-de-loyola/
+[Aeroporto](http://www4.infraero.gov.br/aeroportos/aeroporto-de-joinville-lauro-carneiro-de-loyola/)
 
-# Rodoviária
+[Rodoviária](https://rodoviariaonline.com.br/rodoviaria/joinville/?gclid=CjwKEAjw07nJBRDG_tvshefHhWQSJABRcE-Z6Q2DslKgU0ihUoELdAXy4mGqvocURQpN69o_LB5v4xoCWCDw_wcB)
 
-https://rodoviariaonline.com.br/rodoviaria/joinville/?gclid=CjwKEAjw07nJBRDG_tvshefHhWQSJABRcE-Z6Q2DslKgU0ihUoELdAXy4mGqvocURQpN69o_LB5v4xoCWCDw_wcB
+[Horários e linhas de ônibus municipais](https://www.joinville.sc.gov.br/servicos/horarios-e-linhas-de-onibus-municipais/)
